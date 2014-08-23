@@ -2,29 +2,29 @@
 
 ##Matérias
 
-*Introdução à Lógica
-*Introdução à Teoria dos Conjuntos
-*Indução Matemática
-*Relações e funções
-*Análise Combinatória
+* Introdução à Lógica
+* Introdução à Teoria dos Conjuntos
+* Indução Matemática
+* Relações e funções
+* Análise Combinatória
 
 ##Material Prova 1
 
-*Introdução à Lógica
-*Introdução à Teoria dos Conjuntos
-*Entregar Lista 1.
+* Introdução à Lógica
+* Introdução à Teoria dos Conjuntos
+* Entregar Lista 1.
 
 ###Data Prova 1
 
-*Final de Setembro
+* Final de Setembro
 
 
 ##Material Prova 2
 
-*Indução Matemática
-*Relações e funções
-*Análise Combinatória
-*Entregar Lista 2.
+* Indução Matemática
+* Relações e funções
+* Análise Combinatória
+* Entregar Lista 2.
 
 
 Média Lista = (Lista1 + Lista2) / 2

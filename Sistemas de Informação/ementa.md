@@ -2,8 +2,8 @@
 
 ##Prova 1
 
-*26 Setembro
+* 26 Setembro
 
 ##Prova 2
 
-*05 Dezembro
+* 05 Dezembro
