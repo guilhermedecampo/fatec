@@ -50,12 +50,28 @@ Muitas proposições são compostas isto é, formadas de sub proposições e vá
 * definição-um: "Quisquer duas proposições podem ser combinadas pela palavras 'e' para formar uma composição composta chamada de conjunção"
 * definição-dois: "Se p e q são verdadeiras p^q é verdadeira, caso contrário falsa"
 
+| p    | q    | p ^ q  |
+|:----:|:----:| :-----:|
+| V    | V    | V      |
+| V    | F    | F      |
+| F    | V    | F      |
+| F    | F    | F      |
+
+
 ####Disjunção
 
 * palavras: "ou"
 * notação:"pvq"
 * definição-um: "Quisquer duas proposições podem ser combinadas pela palavras 'ou' para formar uma composição composta chamada de conjunção"
-* definição-dois: "Se p e q são falsas p^q é falsa, caso contrário verdadeira"
+* definição-dois: "Se p e q são falsas pvq é falsa, caso contrário verdadeira"
+
+| p    | q    | p v q  |
+|:----:|:----:| :-----:|
+| V    | V    | V      |
+| V    | F    | V      |
+| F    | V    | V      |
+| F    | F    | F      |
+
 
 ####Negação
 
@@ -64,12 +80,18 @@ Muitas proposições são compostas isto é, formadas de sub proposições e vá
 * definição-um: "Dada qualquer proposição P, outras proposição denominada negação de p pode ser formada escrevendo 'não ocorre que' antes de P, ou se possivel inserindo a palavras não",
 * definição-dois: "Se p é verdade, então ¬p é falso, se p é falso ¬p é verdadeiro"
 
-OBS: as notações não são completamente padronizadas
+| p    | ¬p   |
+|:----:|:----:|
+| V    | F    |
+| F    | V    |
+
+**OBS**: as notações não são completamente padronizadas
 
 ###Proposições Tabela Verdade
 
 A propriedade principal de uma proposição P(p,q..) é o seu valor lógico depender
 exclusivamente dos valores lógicos de suas variáveis
+
 
 
 
