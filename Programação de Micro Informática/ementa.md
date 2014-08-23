@@ -1,18 +1,23 @@
 Jefferson Blaitt - jeffersonblaitt@fatec.sp.gov.br
 
-#Principal objetivo: "Introdução de construção de soluções. Atacar o ciclo de produção de soluções"
+#Principal objetivo
 
-##Objetivos:
-> "fazer uma uniformização do conhecimento da turma",
->  "Entendimento do problema e proposta de solução. Técnicas e Métodos",
->  "Ferramentas para solução".
+"Introdução de construção de soluções. Atacar o ciclo de produção de soluções"
 
-##Prova1:
->  "conteúdo: todo material",
->  "data: final do semestre".
+##Objetivos
 
-##Trabalhos:
-> "quatro~cinco trabalhos"
+*fazer uma uniformização do conhecimento da turma
+*Entendimento do problema e proposta de solução. Técnicas e Métodos
+*Ferramentas para solução
+
+##Prova 1
+
+*Todo material
+*Final do semestre
+
+##Trabalhos
+
+*quatro~cinco trabalhos
 
 
-##Média do Semestre = 0.2 * Prova1 + mediaTrabalhos * 0.8;
+Média do Semestre = 0.2 * Prova1 + mediaTrabalhos * 0.8

@@ -1,7 +1,9 @@
 #Ementa Sistemas de Informação
-##Teoria e Prática
 
-##Provas
-Prova1: 26 Setembro.
+##Prova 1
 
-Prova2: 05 Dezembro.
+*26 Setembro
+
+##Prova 2
+
+*05 Dezembro
