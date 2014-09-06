@@ -15,10 +15,14 @@ email: angelicacc@uol.com
 ##Provas Agendadas
 
 ###Algoritmos e Lógica de Programação
-xx/xx/xx
+
+1º 29/09/2014
+2º 01/12/2014
 
 ###Arquitetura e Organização de Computadores
-xx/xx/xx
+1º 23/09/2014 - capítulos 4 e 5
+2º 18/11/2014
+Reav - 02/12
 
 ###Matemática Discreta
 xx/xx/xx
@@ -27,7 +31,8 @@ xx/xx/xx
 xx/xx/xx
 
 Sistemas de Informação
-xx/xx/xx
+1º 26/09/2014
+2º 05/12/2014
 
 
 ##Listas disponíveis para Estudo e Entrega
