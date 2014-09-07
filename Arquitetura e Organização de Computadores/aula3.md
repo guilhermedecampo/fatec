@@ -19,7 +19,7 @@ então
 
 (70)₁₀ = (106)₈
 
-Conversão de base binária para octal. Agrupar bits de 3 em 3 da direta para a esquerda e converte-los para decimal
+Conversão de base binária para octal. Agrupar bits de 3 em 3(da direta para a esquerda para a parte inteira e da esquerda para a direita parte fracionária) e convertê-los para decimal
 
 Exemplo
 
@@ -42,4 +42,6 @@ Exemplo
 3/2 = 1 (mod = 1)
 
 (A03)₁₆ = (1111101011)₂
+
+Para a conversão de base binária para hexadecimal. Agrupar bits de 4 em 4 (da direta para a esquerda para a parte inteira e da esquerda para a direita parte fracionária) e convertê-los para decimal
 

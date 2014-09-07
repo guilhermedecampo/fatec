@@ -17,7 +17,7 @@ Representação de caracteres em binário
 
 |:1:|:1:| :1:| = 7 em decimal.
 
-A conversão de um número binário para decimal acontece da direita para a esquerda e aumentando o expoente do número 2 de acordo com as casas decimais.
+A conversão de um número binário para decimal acontece da direita para a esquerda parte inteira, e direita para a esquerda parte fracionária e aumentando o expoente do número 2 de acordo com as casas decimais.
 
 então o exemplo acima para ser convertido devemos
 
